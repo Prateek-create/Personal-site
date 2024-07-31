@@ -1,0 +1,133 @@
+/* BODY, P, A */
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'merriweather', serif;
+}
+p{
+    color: rgb(84, 84, 84);
+    font-size: 0.9rem;
+    line-height: 2rem;
+    font-weight: 540;
+}
+a{
+    color: rgb(69, 178, 154);
+    font-family: 'merriweather', serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(21, 117, 96);
+}
+
+/* TOP CONTAINER */
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 110px; 
+}
+.title{
+    margin: 50px auto 0 auto;
+    font-family: Segoe script, cursive;
+    font-size: 3.8rem;
+    color: rgb(69, 178, 154);
+}
+.title-2{
+    color: rgb(69, 178, 154);
+    font-family: 'montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+.img_profile{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    padding: 70px 48px 70px 48px;
+}
+
+/* MIDDLE CONTAINER */
+
+.profile{
+    padding-bottom: 70px;
+}
+.develop{
+    margin-top: 100px;
+}
+.develop1{
+    text-align: left;
+    padding-left: 16%;
+    margin-bottom: 50px;
+    margin-top: 60px;
+}   
+.develop2{
+    text-align: right;
+    padding-right: 16%;
+    margin-bottom: 100px;
+    margin-top: 60px;
+} 
+.help{
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+.img1{
+    width: 130px;
+    height: 130px;
+    float: left;
+    margin-right: 40px;
+}
+.img2{
+    width: 130px;
+    height: 130px;
+    float: right;
+    margin-left: 40px;
+}
+
+/* BOTTOM CONTAINER */
+.bottom-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+
+/* h1,h2,h3,hr */
+hr{
+    border-color: rgb(168, 168, 168);
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 4%;
+}
+h1{
+    color: rgb(24, 124, 102);
+    font-size: 3.1rem;
+    font-family: 'montserrat', sans-serif;
+}
+h2,h3{
+    margin-top: 0px;
+    font-weight: bold;
+    font-size: 1.6rem;
+    font-family: 'montserrat', sans-serif;
+    color: rgb(69, 178, 154);
+}
+.btn {
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family: 'montserrat', sans-serif;
+    color: rgb(20, 110, 91);
+    font-size: 20px;
+    background: rgb(69, 178, 154);
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn:hover{
+    color: rgb(12, 80, 64);
+}
+.help-line{
+    padding-bottom: 20px;
+}
+.end{
+    padding-top: 20px;
+    color: rgb(69, 178, 154);
+    font-family: 'merriweather', serif;
+    font-size: 0.75rem;
+}
